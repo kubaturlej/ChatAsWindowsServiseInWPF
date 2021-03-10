@@ -1,0 +1,21 @@
+﻿Instalowanie zestawu 'C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Kuba\Desktop\MyService\instalacja\MyService.InstallLog
+   assemblypath = C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe
+Trwa instalowanie usługi MojSerwis...
+Usługa MojSerwis została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MojSerwis w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Kuba\Desktop\MyService\instalacja\MyService.InstallLog
+   assemblypath = C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe
+Odinstalowywanie zestawu 'C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Kuba\Desktop\MyService\instalacja\MyService.InstallLog
+   assemblypath = C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe
+Usuwanie źródła EventLog MojSerwis.
+Trwa usuwanie usługi MojSerwis z systemu...
+Usługa MojSerwis została pomyślnie usunięta z systemu.

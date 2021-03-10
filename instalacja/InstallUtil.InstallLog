@@ -1,0 +1,21 @@
+﻿
+Uruchamianie instalacji transakcyjnej.
+
+Rozpoczyna się faza instalacji procesu instalacji.
+Aby sprawdzić postęp zestawu C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe, zapoznaj się z zawartością pliku dziennika.
+Plik znajduje się w C:\Users\Kuba\Desktop\MyService\instalacja\MyService.InstallLog.
+
+Faza instalacji została ukończona pomyślnie i rozpoczyna się faza rezerwacji.
+Aby sprawdzić postęp zestawu C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe, zapoznaj się z zawartością pliku dziennika.
+Plik znajduje się w C:\Users\Kuba\Desktop\MyService\instalacja\MyService.InstallLog.
+
+Faza rezerwacji została ukończona pomyślnie.
+
+Instalacja transakcyjna została ukończona.
+
+
+Rozpoczyna się dezinstalacja.
+Aby sprawdzić postęp zestawu C:\Users\Kuba\Desktop\MyService\instalacja\MyService.exe, zapoznaj się z zawartością pliku dziennika.
+Plik znajduje się w C:\Users\Kuba\Desktop\MyService\instalacja\MyService.InstallLog.
+
+Dezinstalacja została ukończona.
